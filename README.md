@@ -1,49 +1,68 @@
-# 王家盛 / wangjs-jacky
+<h1 align="center">王家盛 / wangjs-jacky</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=00FF88&center=true&vCenter=true&width=980&lines=Build+tools+that+let+developers+ship+faster;CLI+%C2%B7+VS+Code+Extension+%C2%B7+AI+Workflow+%C2%B7+Automation;TypeScript+%C2%B7+Shell+%C2%B7+Developer+Experience" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/wangjs-jacky"><img alt="GitHub followers" src="https://img.shields.io/github/followers/wangjs-jacky?style=for-the-badge&labelColor=0a0a0b&color=00ff88"></a>
+  <a href="https://github.com/wangjs-jacky?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Public%20Repos-113-101319?style=for-the-badge&labelColor=0a0a0b&color=00d4ff"></a>
+  <a href="https://wangjs-jacky.github.io/jacky-blog-vuepress/"><img alt="Blog" src="https://img.shields.io/badge/Blog-Jacky%20Notes-101319?style=for-the-badge&labelColor=0a0a0b&color=ffb800"></a>
+</p>
+
+## About Me
 
 ```text
-> Build tools that let developers ship faster.
-> CLI · VS Code Extension · AI Workflow · Automation
+> AI 工具链开发者
+> CLI / VS Code Extension / 自动化工作流
+> 关注：开发效率、工程化、AI Coding Workflow
 ```
 
-我是王家盛，专注于开发者工具和自动化工作流。
+- 正在打磨：`jacky-skills`、`quick-ai`、个人自动化工具链
+- 技术偏好：TypeScript、Shell、Node.js、GitHub Actions
+- 博客地址：[wangjs-jacky.github.io/jacky-blog-vuepress](https://wangjs-jacky.github.io/jacky-blog-vuepress/)
 
-- 方向：CLI 工具、VS Code 扩展、AI 编程工作流、效率系统
-- 风格：实用优先，能跑、好用、可维护
-- 博客：[wangjs-jacky.github.io/jacky-blog-vuepress](https://wangjs-jacky.github.io/jacky-blog-vuepress/)
+## GitHub Metrics
 
-## 正在做的事
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wangjs-jacky&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangjs-jacky&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-- 打磨 `jacky-skills` 生态（技能开发、安装、发布、同步）
-- 优化 `quick-ai`（多 AI 编程工具的一站式入口）
-- 迭代个人自动化工具链（GitHub + 本地 CLI + Obsidian）
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=wangjs-jacky&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
+</p>
 
-## 代表项目
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wangjs-jacky&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wangjs-jacky&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
+</p>
+
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wangjs-jacky/wangjs-jacky/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wangjs-jacky/wangjs-jacky/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wangjs-jacky/wangjs-jacky/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+## Featured Projects
 
 | 项目 | 一句话说明 | 技术栈 |
 | --- | --- | --- |
-| [Turing-CSS](https://github.com/wangjs-jacky/Turing-CSS) | 面向前端练习与沉淀的 CSS 项目（当前最高 Star） | CSS |
-| [quick-ai](https://github.com/wangjs-jacky/quick-ai) | VS Code 扩展：快速访问 Claude / Opencode / Codex | TypeScript |
-| [jacky-skills](https://github.com/wangjs-jacky/jacky-skills) | 模块化 Skills 仓库，支持插件化组织与版本管理 | Shell |
-| [jacky-skills-package](https://github.com/wangjs-jacky/jacky-skills-package) | skills 管理 CLI（link / install / list） | TypeScript |
-| [jacky-claude-monitor](https://github.com/wangjs-jacky/jacky-claude-monitor) | Claude Code 会话监控与通知工具 | TypeScript |
-| [jacky-proxy](https://github.com/wangjs-jacky/jacky-proxy) | 面向调试场景的通用 Mock 代理服务器 | JavaScript |
+| [Turing-CSS](https://github.com/wangjs-jacky/Turing-CSS) | Turing 风格的 Typora CSS 主题，适合技术写作与长文排版 | CSS |
+| [quick-ai](https://github.com/wangjs-jacky/quick-ai) | VS Code 扩展：一站式调用 Claude、Opencode、Codex 等 AI 编程工具 | TypeScript |
+| [jacky-skills](https://github.com/wangjs-jacky/jacky-skills) | 模块化 AI Coding Skills 仓库，覆盖开发工具、自动化、Obsidian 与视频处理场景 | Shell |
+| [jacky-skills-package](https://github.com/wangjs-jacky/jacky-skills-package) | 跨 35+ 环境的 skills 管理 CLI：link、install、list 一体化 | TypeScript |
+| [jacky-claude-monitor](https://github.com/wangjs-jacky/jacky-claude-monitor) | Claude Code 会话监控工具，支持 macOS 悬浮窗与实时通知 | TypeScript |
+| [jacky-proxy](https://github.com/wangjs-jacky/jacky-proxy) | 通用 API Mock 代理：零配置启动，适用于前端联调与抓包调试 | JavaScript |
 
-## GitHub 统计
-
-<p>
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api?username=wangjs-jacky&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangjs-jacky&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-## 联系我
+## Contact
 
 - GitHub: [@wangjs-jacky](https://github.com/wangjs-jacky)
 - Blog: [jacky-blog-vuepress](https://wangjs-jacky.github.io/jacky-blog-vuepress/)
