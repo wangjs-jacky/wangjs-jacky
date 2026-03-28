@@ -70,3 +70,5 @@
 ---
 
 如果你也在做开发者工具、自动化或 AI Coding Workflow，欢迎交流。
+
+<!-- profile-readme-refresh: 2026-03-29 -->
